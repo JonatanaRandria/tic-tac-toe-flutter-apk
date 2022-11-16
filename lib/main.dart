@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:flutter/material.dart';
 import 'package:tic_tac_toe/operations/game_runner.dart';
 import 'package:tic_tac_toe/ui/theme/color.dart';
